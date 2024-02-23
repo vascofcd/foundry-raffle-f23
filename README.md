@@ -48,7 +48,7 @@ $ anvil
 ### Deploy
 
 ```shell
-$ forge script script/Raffle.s.sol:RaffleScript --rpc-url <your_rpc_url> --private-key <your_private_key>
+$ forge script script/DeployRaffle.s.sol:DeployRaffle --rpc-url <your_rpc_url> --private-key <your_private_key>
 ```
 
 ### Cast
